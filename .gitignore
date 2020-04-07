@@ -1,4 +1,4 @@
-stdopt-*
+getopt-*
 .build
 *~
 nytprof*
