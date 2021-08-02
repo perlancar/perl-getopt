@@ -2,3 +2,4 @@ getopt-*
 .build
 *~
 nytprof*
+.DS_Store
